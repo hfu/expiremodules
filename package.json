@@ -1,0 +1,24 @@
+{
+  "name": "expiremodules",
+  "version": "1.0.0",
+  "description": "a tool to create the list of expired modules from the contents of expiretiles by imposm3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/expiremodules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/expiremodules/issues"
+  },
+  "homepage": "https://github.com/hfu/expiremodules#readme",
+  "dependencies": {
+    "config": "^2.0.1",
+    "hjson": "^3.1.2"
+  }
+}
